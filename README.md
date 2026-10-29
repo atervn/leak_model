@@ -57,8 +57,8 @@ to record it. See `help leak_model` and `help interaction_matrix` for details.
 | `nComp` | Number of compartments in an odd compartment row (even rows have `nComp+1`) | – |
 | `lStrandSame` | Strand length between side-by-side compartments in the same row | m |
 | `lStrandDiff` | Strand length between compartments in neighbouring rows | m |
-| `pBreak` | Breaking formation rate per µm of strand per time step | – |
-| `pSeal` | Sealing rate of a broken strand per time step | – |
+| `pBreak` | Breaking formation rate per µm of strand per time step | 1/(m*s) |
+| `pSeal` | Sealing rate of a broken strand per time step | 1/s |
 
 ### Outputs
 

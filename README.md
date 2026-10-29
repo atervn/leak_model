@@ -1,5 +1,7 @@
 # Tight junction leak model
 
+[![DOI](https://zenodo.org/badge/414107098.svg)](https://doi.org/10.5281/zenodo.23758070)
+
 A stochastic model of leaks through the tight junction strand network. The
 junction is modelled as a set of horizontal strands that divide the space
 between them into rows of compartments. Strand segments break and seal at

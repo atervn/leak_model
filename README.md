@@ -7,8 +7,6 @@ random, and a leak exists when broken segments open a continuous path from
 one side of the junction to the other. The model tracks the number of
 distinct leaks over time and the lifetime of each leak.
 
-> **[Add the paper reference here once available.]**
-
 ## Files
 
 | File | Description |
